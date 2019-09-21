@@ -1,0 +1,522 @@
+{
+  "playlists" : {
+    "href" : "https://api.spotify.com/v1/browse/categories/opm/playlists?country=PH&offset=10&limit=20",
+    "items" : [ {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DWVjrTQlvqTHF"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWVjrTQlvqTHF",
+      "id" : "37i9dQZF1DWVjrTQlvqTHF",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://pl.scdn.co/images/pl/default/2bc90d60e1ffbb88c5a70232ac831fa597ee4a85",
+        "width" : null
+      } ],
+      "name" : "New Music Friday Philippines",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTU1NzQ2MDg2MCwwMDAwMDFjYzAwMDAwMTZhOWZlNmJkZjYwMDAwMDE2YTllMDZkZTIw",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWVjrTQlvqTHF/tracks",
+        "total" : 87
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DWVjrTQlvqTHF"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DWZpPC3clG38j"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWZpPC3clG38j",
+      "id" : "37i9dQZF1DWZpPC3clG38j",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://pl.scdn.co/images/pl/default/feacd552e6c2b9a0292c69f4b929b1d6f093808c",
+        "width" : null
+      } ],
+      "name" : "Pinoy Reggae",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTU1MDU2ODQxMCwwMDAwMDAwZTAwMDAwMTY5MDUxNDRlNGQwMDAwMDE2ODNiMGZjZGM4",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWZpPC3clG38j/tracks",
+        "total" : 26
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DWZpPC3clG38j"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX9GXluf5qKxo"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX9GXluf5qKxo",
+      "id" : "37i9dQZF1DX9GXluf5qKxo",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://pl.scdn.co/images/pl/default/65335edd725532bea73782835ae40ff6a43d1f11",
+        "width" : null
+      } ],
+      "name" : "Pinoy Rakrakan!",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTU1NjAxMDM2MywwMDAwMDAxYTAwMDAwMTZhNDk3MWU5NjIwMDAwMDE2ODNhZTVlNGIy",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX9GXluf5qKxo/tracks",
+        "total" : 75
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DX9GXluf5qKxo"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX53n2vsU9kOm"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX53n2vsU9kOm",
+      "id" : "37i9dQZF1DX53n2vsU9kOm",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://pl.scdn.co/images/pl/default/c71580c6d72adb6a725cf43ecd6549376617e9c0",
+        "width" : null
+      } ],
+      "name" : "OPM: Hits of the '90s",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTU1MTE1MTAyOCwwMDAwMDAwZDAwMDAwMTY5MjdjZTU3YjYwMDAwMDE2ODNhZmRmNTM3",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX53n2vsU9kOm/tracks",
+        "total" : 35
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DX53n2vsU9kOm"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DWSVQreDCvFMf"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWSVQreDCvFMf",
+      "id" : "37i9dQZF1DWSVQreDCvFMf",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://pl.scdn.co/images/pl/default/ee72899ee1219c60772334a5fedbb59214e6a045",
+        "width" : null
+      } ],
+      "name" : "OPM Rising",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTU1NzI3MjQ2MSwwMDAwMDAxYzAwMDAwMTZhOTRhYzAwYzIwMDAwMDE2YTk0YWI2MjQ2",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWSVQreDCvFMf/tracks",
+        "total" : 41
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DWSVQreDCvFMf"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DWZKNkQDWII13"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWZKNkQDWII13",
+      "id" : "37i9dQZF1DWZKNkQDWII13",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://pl.scdn.co/images/pl/default/5374e097259013fa28d4eaa35cc512f7675709dc",
+        "width" : null
+      } ],
+      "name" : "Men of OPM",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTU1NjAxMDAwMiwwMDAwMDAzMjAwMDAwMTZhNDk2YzY3YzMwMDAwMDE2ODNiMDRkZWEx",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWZKNkQDWII13/tracks",
+        "total" : 60
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DWZKNkQDWII13"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DXbuvqGDV5qgQ"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DXbuvqGDV5qgQ",
+      "id" : "37i9dQZF1DXbuvqGDV5qgQ",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://pl.scdn.co/images/pl/default/f6f1209d068399128861ca74583365612f7652fa",
+        "width" : null
+      } ],
+      "name" : "Women of OPM",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTU1NjAxMDYxNywwMDAwMDAyNDAwMDAwMTZhNDk3NWNjODAwMDAwMDE2ODNiMDMwZjMx",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DXbuvqGDV5qgQ/tracks",
+        "total" : 50
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DXbuvqGDV5qgQ"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DWZaQnTjRLBcl"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWZaQnTjRLBcl",
+      "id" : "37i9dQZF1DWZaQnTjRLBcl",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://pl.scdn.co/images/pl/default/429e77680dab2b02f5c73e8b87ddcc4e931bde46",
+        "width" : null
+      } ],
+      "name" : "OPM Workday Marathon",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTU1NDg3OTc5NSwwMDAwMDAzYjAwMDAwMTZhMDYwZWQyZDEwMDAwMDE2ODk4YmU2YjE4",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWZaQnTjRLBcl/tracks",
+        "total" : 121
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DWZaQnTjRLBcl"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX0oESWhpVpaJ"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX0oESWhpVpaJ",
+      "id" : "37i9dQZF1DX0oESWhpVpaJ",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://pl.scdn.co/images/pl/default/a57d9bc5512e3f569c75561187d5dacfafbb7bab",
+        "width" : null
+      } ],
+      "name" : "Best of Manila Sound",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTU0NzQ1Mjg2MCwwMDAwMDAxMjAwMDAwMTY4NGI2MGM2Y2QwMDAwMDE2ODNiMDZhM2Ix",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX0oESWhpVpaJ/tracks",
+        "total" : 40
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DX0oESWhpVpaJ"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DWT1KGzDW6y8x"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWT1KGzDW6y8x",
+      "id" : "37i9dQZF1DWT1KGzDW6y8x",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://pl.scdn.co/images/pl/default/352fec2b1d13df9d36ea04175497e0b5bb55e853",
+        "width" : null
+      } ],
+      "name" : "Pinoy Alt Rock",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTU1NjAxMTM4NCwwMDAwMDAyYjAwMDAwMTZhNDk4MTdmMzUwMDAwMDE2OTk5NDllNGNh",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWT1KGzDW6y8x/tracks",
+        "total" : 70
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DWT1KGzDW6y8x"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX6oLdwrroY56"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX6oLdwrroY56",
+      "id" : "37i9dQZF1DX6oLdwrroY56",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://pl.scdn.co/images/pl/default/c26329a4d2dbd2002eabe22d552e8cafc76766d4",
+        "width" : null
+      } ],
+      "name" : "Pinoy Indie Mix",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTU1NjAxMDk4MSwwMDAwMDA2YzAwMDAwMTZhNDk3YjU4YzAwMDAwMDE2OTk5NDI3Yzc4",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX6oLdwrroY56/tracks",
+        "total" : 60
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DX6oLdwrroY56"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX6i41Du3v1cr"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX6i41Du3v1cr",
+      "id" : "37i9dQZF1DX6i41Du3v1cr",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://pl.scdn.co/images/pl/default/742b3bad370ce724c0848ddcf0455749a76f752f",
+        "width" : null
+      } ],
+      "name" : "OPM: Hits of the '80s",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTU1MDY0NjQ3NywwMDAwMDAwZjAwMDAwMTY5MDliYjgzNWYwMDAwMDE2ODNiMDAwZDgy",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX6i41Du3v1cr/tracks",
+        "total" : 40
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DX6i41Du3v1cr"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX73ypw2eCSkJ"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX73ypw2eCSkJ",
+      "id" : "37i9dQZF1DX73ypw2eCSkJ",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://pl.scdn.co/images/pl/default/1eca426decd3cdcc149586d95ff20e482c8e2110",
+        "width" : null
+      } ],
+      "name" : "Love Team Anthems",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTU0ODY2Nzg0MywwMDAwMDAxNTAwMDAwMTY0NThmMGE2ZGMwMDAwMDE2ODkzY2JmM2Jk",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX73ypw2eCSkJ/tracks",
+        "total" : 32
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DX73ypw2eCSkJ"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/7HOudp2iNs9lO2oGrkNpir"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/7HOudp2iNs9lO2oGrkNpir",
+      "id" : "7HOudp2iNs9lO2oGrkNpir",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://pl.scdn.co/images/pl/default/8ebc757b32e387edfe2881e0970ba65798ebd245",
+        "width" : null
+      } ],
+      "name" : "Oh!PM",
+      "owner" : {
+        "display_name" : "yourguru",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/yourguru"
+        },
+        "href" : "https://api.spotify.com/v1/users/yourguru",
+        "id" : "yourguru",
+        "type" : "user",
+        "uri" : "spotify:user:yourguru"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTMxLGNhOTg0OTg0YTEzZTFhYWExNGRhODE0ZTI5NDY3ZTg3ODQ1ZWEzMWM=",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/7HOudp2iNs9lO2oGrkNpir/tracks",
+        "total" : 69
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:7HOudp2iNs9lO2oGrkNpir"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/6OefrXzc0NkgSrVpJaRzon"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/6OefrXzc0NkgSrVpJaRzon",
+      "id" : "6OefrXzc0NkgSrVpJaRzon",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://pl.scdn.co/images/pl/default/18aa9f57234eea878db706bae5bd19dc12af0bf8",
+        "width" : null
+      } ],
+      "name" : "Pinoy Super Sound Trip",
+      "owner" : {
+        "display_name" : "Filtr Philippines",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/filtrph"
+        },
+        "href" : "https://api.spotify.com/v1/users/filtrph",
+        "id" : "filtrph",
+        "type" : "user",
+        "uri" : "spotify:user:filtrph"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTAyLGI0NTY1ODhjODNhOGQyMzY3OWRjNzc5MTY3YTgzNDFiNTVlMDhiZDY=",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/6OefrXzc0NkgSrVpJaRzon/tracks",
+        "total" : 44
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:6OefrXzc0NkgSrVpJaRzon"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/2tiolMJMNsgjTvy2OqqVaI"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/2tiolMJMNsgjTvy2OqqVaI",
+      "id" : "2tiolMJMNsgjTvy2OqqVaI",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://pl.scdn.co/images/pl/default/e2f65b1ee8f5708d3bd2d9389f5bd7c52c654c00",
+        "width" : null
+      } ],
+      "name" : "Just Chill Vibes",
+      "owner" : {
+        "display_name" : "Eleven Seven Music",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/elevensevenmusic"
+        },
+        "href" : "https://api.spotify.com/v1/users/elevensevenmusic",
+        "id" : "elevensevenmusic",
+        "type" : "user",
+        "uri" : "spotify:user:elevensevenmusic"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTY5LDU3ZDFiNzQ1ZTgwZmRjNjA5ZDliMzdkYTdjZTlkM2I0NTkxZmJiYWE=",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/2tiolMJMNsgjTvy2OqqVaI/tracks",
+        "total" : 41
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:2tiolMJMNsgjTvy2OqqVaI"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 10,
+    "previous" : "https://api.spotify.com/v1/browse/categories/opm/playlists?country=PH&offset=0&limit=20",
+    "total" : 26
+  }
