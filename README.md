@@ -1,7 +1,7 @@
 # PH Indie
 
 PH Indie is a project analyzing the Spotify data of current Filipino indie artists.
-See the [jupyter notebook](https://github.com/ipascode/ph-indie-analysis/blob/master/The%20Sound%20of%20Indie.ipynb)
+See the [jupyter notebook](https://nbviewer.jupyter.org/github/ipascode/ph-indie-analysis/blob/master/The%20Sound%20of%20Indie.ipynb)
 
 # Files
  - authorization .py -- obtain authorization from the Spotify API
